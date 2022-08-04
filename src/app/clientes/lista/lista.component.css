@@ -1,0 +1,21 @@
+table{
+  width: 100%;
+  margin-top: 10px;
+}
+
+table th{
+  font-size: 1.5em;
+  text-align: center;
+  color: black;
+}
+
+img{
+  border-radius: 65px;
+  -webkit-border-radius: 65px;
+  -moz-border-radius: 65px;
+  -ms-border-radius: 65px;
+  -o-border-radius: 65px;
+  height: 100px;
+  margin: 10px auto;
+  width: 100px;
+}
